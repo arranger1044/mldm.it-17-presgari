@@ -1,0 +1,15 @@
+*.run.xml
+*.bcf
+*.nav
+*.snm
+*.aux
+*.log
+*.toc
+*.bbl
+*.blg
+*.bgl
+*.el
+**/auto/*
+*.synctex.gz
+*.out
+*camera-ready.zip
